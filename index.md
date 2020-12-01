@@ -9,7 +9,7 @@ This website will serve as the course page for AHMP's 2021 workshop in Kabul
 * **[Customize](/modules/customize/favicon)** - Add some (optional) finishing touches
 
 <br> 
-[PDF link test](/Wheatley&Gillings 2002 (1).pdf)
+[PDF link test](Wheatley&Gillings 2002 (1).pdf)
 
 #### Need some help?
 Our [community forum](https://community.p2pu.org/c/tech/course-in-a-box/78) is a great place to ask questions or find help when you get stuck. Feel free to post there anytime!
