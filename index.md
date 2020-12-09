@@ -11,6 +11,8 @@ This website will serve as the course page for AHMP's 2021 workshop in Kabul
 <br> 
 [PDF link test](img/Conolly_Lake_2006 (1).pdf)
 
+[page link test](single-page.md)
+
 #### Need some help?
 Our [community forum](https://community.p2pu.org/c/tech/course-in-a-box/78) is a great place to ask questions or find help when you get stuck. Feel free to post there anytime!
 
