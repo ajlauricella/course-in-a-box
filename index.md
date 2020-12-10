@@ -6,7 +6,7 @@ published: true
 This website will serve as the course page for AHMP's 2021 workshop in Kabul
 * **[Setup](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
 * **[Content](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
-* **[Customize](/modules/customize/favicon)** - Add some (optional) finishing touches
+* **[Customize](/modules/Course Materials/_posts)** - Add some (optional) finishing touches
 
 <br> 
 [PDF link test](img/Conolly_Lake_2006 (1).pdf)
