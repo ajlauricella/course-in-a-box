@@ -3,11 +3,10 @@ layout: index
 published: true
 ---
 
-This website will serve as the main course page for AHMP's 2021 Remote qGIS workshop
-* **[Setup](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
-* **[Content](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
-* **[Customize](modules/Course Materials/_posts/2000-01-01-Syllabus.md)** - Add some (optional) finishing touches
-
+This website will serve as the main course page for AHMP's 2021 Remote qGIS workshop. The course will be taught remotely 
+* **[Course Materials](modules/Course Materials/_posts/2000-01-01-Syllabus.md)** - Schedule, syllabus, and links to further reading
+* **[Video Resources](/modules/content/markdown-and-media)** - Course video archive   
+* **[About AHMP](modules/About AHMP/_posts/2000-01-01-About.md)** - Information about the Afghan Heritage Mapping Partnership
 <br> 
 [PDF link test](img/Conolly_Lake_2006 (1).pdf)
 
