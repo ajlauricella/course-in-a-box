@@ -3,4 +3,4 @@ layout: page
 ---
 
 # General Reading
-[Geographical Information Systems in Archaeology](blob/Readings.md)
+[Geographical Information Systems in Archaeology](blob/gh-pages/Readings.md)
